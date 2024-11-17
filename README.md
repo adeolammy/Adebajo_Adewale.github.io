@@ -229,7 +229,7 @@ integrates user authentication, stock control, and transaction monitoring.
 
 -Microsoft PowerBI (creating the interactive dashboard to visualize and analyze sales, profit, and quantity data)
 
--Microsoft Excel: For cleaning, preprocessing, and aggregating data before importing it into Power BI.
+-Microsoft Excel: (For cleaning, preprocessing, and aggregating data before importing it into Power BI.)
 
 **Project Description:**
 
