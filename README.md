@@ -1,11 +1,11 @@
 # Data Analytics Portfolio
 # Project 1
 
-**Title: Tools:** [Adidas Sales Dashboard](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Adidas-Dashboard-START.xlsx)
+**Title:** [Adidas Sales Dashboard](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Adidas-Dashboard-START.xlsx)
 
-**Used: Project:** Microsoft Excel (Pivolt table, Pivolt Chart, Filters and Slicers and timelines, Conditional Formatting)
+**Tools Used:** Microsoft Excel (Pivolt table, Pivolt Chart, Filters and Slicers and timelines, Conditional Formatting)
 
-**Description:** This project involves analyzing Adidas sales data to provide a detailed and interactive dashboard for tracking sales performance across different dimensions. The dashboard serves as a powerful tool for visualizing sales trends and supporting strategic decision-making.
+**Project Description:** This project involves analyzing Adidas sales data to provide a detailed and interactive dashboard for tracking sales performance across different dimensions. The dashboard serves as a powerful tool for visualizing sales trends and supporting strategic decision-making.
 
 Key Features of the Dashboard:
 Retailer Performance
@@ -211,5 +211,25 @@ This project demonstrates an end-to-end SQL implementation of an inventory manag
 integrates user authentication, stock control, and transaction monitoring. 
 
 
-
 **Technology used:** SQL server
+
+
+
+
+
+
+
+# Project 3
+
+
+
+**Title:** [Global superstore report 2023](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Global%20superstore%20report%2023.pbix)
+
+**Tools Used:** Microsoft Excel (Pivolt table, Pivolt Chart, Filters and Slicers and timelines, Conditional Formatting)
+
+**Project Description:**
+
+**Key findings:** 
+
+**Dashboard Overview**
+![Global superstore report 2023_dashboard](Global_SuperStore_Dashboard.png)
