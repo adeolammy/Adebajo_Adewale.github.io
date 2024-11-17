@@ -225,11 +225,67 @@ integrates user authentication, stock control, and transaction monitoring.
 
 **Title:** [Global superstore report 2023](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Global%20superstore%20report%2023.pbix)
 
-**Tools Used:** Microsoft Excel (Pivolt table, Pivolt Chart, Filters and Slicers and timelines, Conditional Formatting)
+**Tools Used:** 
+
+-Microsoft PowerBI (creating the interactive dashboard to visualize and analyze sales, profit, and quantity data)
+
+-Microsoft Excel: For cleaning, preprocessing, and aggregating data before importing it into Power BI.
 
 **Project Description:**
 
+This project focuses on analyzing sales and profit trends for the Global Superstore using historical data. The goal was to create an interactive dashboard that highlights key business insights, such as top-performing regions, product categories, and sales channels. By leveraging Power BI, the dashboard provides a comprehensive overview of the superstore's performance in various states and regions, enabling stakeholders to make data-driven decisions to optimize operations and boost profitability.
+
+The dashboard consists of the following key elements:
+
+--Sales Trends by Year: Analyzed sales growth over time (2010–2014) to identify yearly performance trends.
+
+--Sales and Profit by State: Highlighted top-performing states such as California and New York, and identified underperforming areas.
+
+--Profit by Shipping Mode: Evaluated profitability based on shipping methods, with "Regular Air" contributing the most profit.
+
+--Sales by Region: Segmented sales performance across regions (Central, East, West, South) using a donut chart.
+
+--Product Quantity Insights: Showcased popular products and their demand using bar charts.
+
+--KPIs: Summarized overall performance with Key Performance Indicators (KPIs) for Sum of Profit (1.31M) and Sum of Sales (8.95M).
+
 **Key findings:** 
+
+--Yearly Sales Growth:
+
+--Sales increased significantly from 2010 to 2013, peaking in 2013.
+--A slight dip is observed in 2014.
+
+
+State-Wise Performance:
+
+--California and New York were the leading contributors to sales, with California generating over 1.16M in sales.
+
+--States like Georgia and North Carolina showed minimal sales, indicating areas for improvement.
+
+
+Shipping Mode Insights:
+
+--"Regular Air" was the most profitable shipping mode, contributing over 1M in profit.
+
+--"Delivery Truck" and "Express Air" showed lower profit margins, suggesting optimization opportunities.
+
+Regional Sales Contribution:
+
+--The East and West regions collectively accounted for over 55% of total sales.
+
+--The South region had the lowest contribution, highlighting a need for targeted marketing strategies.
+
+Product Demand:
+
+--Products such as Avery 10, Excel Stor, and Velcro showed the highest quantities ordered.
+
+--This suggests high customer demand for certain product categories.
+
+Profit and Sales Performance:
+
+--Total profit stood at 1.31M, while total sales reached 8.95M, indicating a healthy profit margin.
+
 
 **Dashboard Overview:**
 
