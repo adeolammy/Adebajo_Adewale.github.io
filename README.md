@@ -231,5 +231,7 @@ integrates user authentication, stock control, and transaction monitoring.
 
 **Key findings:** 
 
-**Dashboard Overview**
+**Dashboard Overview:**
+
+
 ![Global superstore report 2023_dashboard](Global_SuperStore_Dashboard.png)
