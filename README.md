@@ -78,7 +78,7 @@ E-commerce presents a significant growth avenue, especially with shifting consum
 
 # Project 2
 
-**Title:** [Car Sales Dashboard Overview and Details]()
+**Title:** [Car Sales Dashboard Overview and Details](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Car%20sales%20Dashboard.pbix)
 
 **Tools Used:** Power BI, Power Query, DAX (Data Analysis Expressions), Microsoft Excel, Geospatial Tools, Visualization Libraries (Native Power BI)
 
