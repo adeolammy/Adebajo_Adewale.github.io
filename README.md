@@ -138,7 +138,8 @@ The YTD average car price was $28K, with slight fluctuations in MTD average pric
 
 
 **Dashboard Overview**
-![Car Sales Dashboard Overview and Details ](d.png)
+![Car Sales Dashboard Overview](car_sales_Dashboard_overview.png)
+![Car Sales Dashboard Details](car_sales_Dashboard_Details.png)
 
 
 
