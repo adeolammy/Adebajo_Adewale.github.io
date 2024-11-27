@@ -94,16 +94,23 @@ of car sales performance across regions, body styles, colors, and dealer network
 **Objective and Benefits:** 
 
 Objective:
+
 The primary goal of this project was to provide an intuitive and interactive platform for tracking key metrics like revenue, units sold, 
 and customer preferences while enabling stakeholders to:
 
+
 -Identify sales trends and growth opportunities.
+
 -Monitor dealer and regional performance.
+
 -Optimize strategies for sales, pricing, and inventory management.
 
 Benefits:
+
 -Enhanced decision-making through comprehensive data visualization.
+
 -Time savings with dynamic filtering and drill-down capabilities.
+
 -Improved understanding of customer and regional preferences, leading to better product positioning.
 
 
