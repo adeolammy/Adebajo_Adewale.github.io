@@ -22,7 +22,7 @@ Product Sales Analysis
 A breakdown of sales performance across product categories (Men's and Women's Apparel, Footwear) using a comparative bar chart.
 Total Sales Trends
 
-A dynamic line graph displaying total sales trends over time, giving an overview of sales growth and consistency.
+A dynamic line graph displaying total sales, trends over time, giving an overview of sales growth and consistency.
 Interactive Slicers:
 The dashboard includes several filters for detailed analysis:
 
@@ -77,6 +77,71 @@ E-commerce presents a significant growth avenue, especially with shifting consum
 
 
 # Project 2
+
+**Title:** [Car Sales Dashboard Overview and Details]()
+
+**Tools Used:** Power BI, Power Query, DAX (Data Analysis Expressions), Microsoft Excel, Geospatial Tools, Visualization Libraries (Native Power BI)
+
+**Project Description:** 
+This project involved the design and development of an interactive Car Sales Dashboard using Power BI to analyze, visualize, 
+and track key sales performance metrics for a car dealership company. The dashboard was built to help stakeholders understand data trends, 
+make informed decisions, and enhance business strategy through actionable insights.
+
+The project is divided into two primary views—Overview and Details—each tailored to provide both high-level summaries and granular analyses
+of car sales performance across regions, body styles, colors, and dealer networks.
+
+
+**Objective and Benefits:** 
+
+Objective:
+The primary goal of this project was to provide an intuitive and interactive platform for tracking key metrics like revenue, units sold, 
+and customer preferences while enabling stakeholders to:
+
+-Identify sales trends and growth opportunities.
+-Monitor dealer and regional performance.
+-Optimize strategies for sales, pricing, and inventory management.
+
+Benefits:
+-Enhanced decision-making through comprehensive data visualization.
+-Time savings with dynamic filtering and drill-down capabilities.
+-Improved understanding of customer and regional preferences, leading to better product positioning.
+
+
+**Key Findings:** 
+
+This project revealed several important insights:
+
+Sales Performance:
+Year-to-date (YTD) sales amounted to $371.2M, with a 23.6% increase compared to the previous year.
+Month-to-date (MTD) sales stood at $54.28M.
+
+Customer Preferences:
+Body Style: SUVs and sedans were the most popular categories based on sales volume.
+
+Color: Black and red vehicles were the top-selling colors, indicating strong customer preference.
+
+Regional Trends:
+Certain regions, such as Middletown and Greenville, outperformed others in terms of cars sold.
+
+Manufacturer Performance:
+Brands like Dodge, Chevrolet, and Cadillac showed consistent sales growth, with Dodge leading at 6.74% growth.
+
+Price Trends:
+The YTD average car price was $28K, with slight fluctuations in MTD average price.
+
+
+**Dashboard Overview**
+![Car Sales Dashboard Overview and Details ](d.png)
+
+
+
+
+
+
+
+
+
+# Project 3
 
 **Title:** Inventory management system
 
@@ -219,7 +284,7 @@ integrates user authentication, stock control, and transaction monitoring.
 
 
 
-# Project 3
+# Project 4
 
 
 
