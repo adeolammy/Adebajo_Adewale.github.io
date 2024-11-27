@@ -78,73 +78,76 @@ E-commerce presents a significant growth avenue, especially with shifting consum
 
 # Project 2
 
-**Title:** [Car Sales Dashboard Overview and Details](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Car%20sales%20Dashboard.pbix)
-
-**Tools Used:** Power BI, Power Query, DAX (Data Analysis Expressions), Microsoft Excel, Geospatial Tools, Visualization Libraries (Native Power BI)
-
-**Project Description:** 
-This project involved the design and development of an interactive Car Sales Dashboard using Power BI to analyze, visualize, 
-and track key sales performance metrics for a car dealership company. The dashboard was built to help stakeholders understand data trends, 
-make informed decisions, and enhance business strategy through actionable insights.
-
-The project is divided into two primary views—Overview and Details—each tailored to provide both high-level summaries and granular analyses
-of car sales performance across regions, body styles, colors, and dealer networks.
 
 
-**Objective and Benefits:** 
+**Title:** [Global superstore report 2023](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Global%20superstore%20report%2023.pbix)
 
-Objective:
+**Tools Used:** 
 
-The primary goal of this project was to provide an intuitive and interactive platform for tracking key metrics like revenue, units sold, 
-and customer preferences while enabling stakeholders to:
+-Microsoft PowerBI (creating the interactive dashboard to visualize and analyze sales, profit, and quantity data)
 
+-Microsoft Excel: (For cleaning, preprocessing, and aggregating data before importing it into Power BI.)
 
--Identify sales trends and growth opportunities.
+**Project Description:**
 
--Monitor dealer and regional performance.
+This project focuses on analyzing sales and profit trends for the Global Superstore using historical data. The goal was to create an interactive dashboard that highlights key business insights, such as top-performing regions, product categories, and sales channels. By leveraging Power BI, the dashboard provides a comprehensive overview of the superstore's performance in various states and regions, enabling stakeholders to make data-driven decisions to optimize operations and boost profitability.
 
--Optimize strategies for sales, pricing, and inventory management.
+The dashboard consists of the following key elements:
 
-Benefits:
+--Sales Trends by Year: Analyzed sales growth over time (2010–2014) to identify yearly performance trends.
 
--Enhanced decision-making through comprehensive data visualization.
+--Sales and Profit by State: Highlighted top-performing states such as California and New York, and identified underperforming areas.
 
--Time savings with dynamic filtering and drill-down capabilities.
+--Profit by Shipping Mode: Evaluated profitability based on shipping methods, with "Regular Air" contributing the most profit.
 
--Improved understanding of customer and regional preferences, leading to better product positioning.
+--Sales by Region: Segmented sales performance across regions (Central, East, West, South) using a donut chart.
 
+--Product Quantity Insights: Showcased popular products and their demand using bar charts.
 
-**Key Findings:** 
+--KPIs: Summarized overall performance with Key Performance Indicators (KPIs) for Sum of Profit (1.31M) and Sum of Sales (8.95M).
 
-This project revealed several important insights:
+**Key findings:** 
 
-Sales Performance:
-Year-to-date (YTD) sales amounted to $371.2M, with a 23.6% increase compared to the previous year.
-Month-to-date (MTD) sales stood at $54.28M.
+--Yearly Sales Growth:
 
-Customer Preferences:
-Body Style: SUVs and sedans were the most popular categories based on sales volume.
-
-Color: Black and red vehicles were the top-selling colors, indicating strong customer preference.
-
-Regional Trends:
-Certain regions, such as Middletown and Greenville, outperformed others in terms of cars sold.
-
-Manufacturer Performance:
-Brands like Dodge, Chevrolet, and Cadillac showed consistent sales growth, with Dodge leading at 6.74% growth.
-
-Price Trends:
-The YTD average car price was $28K, with slight fluctuations in MTD average price.
+--Sales increased significantly from 2010 to 2013, peaking in 2013.
+--A slight dip is observed in 2014.
 
 
-**Dashboard Overview**
-![Car Sales Dashboard Overview](car_sales_Dashboard_overview.png)
-![Car Sales Dashboard Details](car_sales_Dashboard_Details.png)
+State-Wise Performance:
+
+--California and New York were the leading contributors to sales, with California generating over 1.16M in sales.
+
+--States like Georgia and North Carolina showed minimal sales, indicating areas for improvement.
 
 
+Shipping Mode Insights:
+
+--"Regular Air" was the most profitable shipping mode, contributing over 1M in profit.
+
+--"Delivery Truck" and "Express Air" showed lower profit margins, suggesting optimization opportunities.
+
+Regional Sales Contribution:
+
+--The East and West regions collectively accounted for over 55% of total sales.
+
+--The South region had the lowest contribution, highlighting a need for targeted marketing strategies.
+
+Product Demand:
+
+--Products such as Avery 10, Excel Stor, and Velcro showed the highest quantities ordered.
+
+--This suggests high customer demand for certain product categories.
+
+Profit and Sales Performance:
+
+--Total profit stood at 1.31M, while total sales reached 8.95M, indicating a healthy profit margin.
 
 
+**Dashboard Overview:**
 
+
+![Global superstore report 2023_dashboard](Global_SuperStore_Dashboard.png)
 
 
 
@@ -291,76 +294,77 @@ integrates user authentication, stock control, and transaction monitoring.
 
 
 
-
 # Project 4
 
+**Title:** [Car Sales Dashboard Overview and Details](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Car%20sales%20Dashboard.pbix)
+
+**Tools Used:** Power BI, Power Query, DAX (Data Analysis Expressions), Microsoft Excel, Geospatial Tools, Visualization Libraries (Native Power BI)
+
+**Project Description:** 
+This project involved the design and development of an interactive Car Sales Dashboard using Power BI to analyze, visualize, 
+and track key sales performance metrics for a car dealership company. The dashboard was built to help stakeholders understand data trends, 
+make informed decisions, and enhance business strategy through actionable insights.
+
+The project is divided into two primary views—Overview and Details—each tailored to provide both high-level summaries and granular analyses
+of car sales performance across regions, body styles, colors, and dealer networks.
 
 
-**Title:** [Global superstore report 2023](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Global%20superstore%20report%2023.pbix)
+**Objective and Benefits:** 
 
-**Tools Used:** 
+Objective:
 
--Microsoft PowerBI (creating the interactive dashboard to visualize and analyze sales, profit, and quantity data)
-
--Microsoft Excel: (For cleaning, preprocessing, and aggregating data before importing it into Power BI.)
-
-**Project Description:**
-
-This project focuses on analyzing sales and profit trends for the Global Superstore using historical data. The goal was to create an interactive dashboard that highlights key business insights, such as top-performing regions, product categories, and sales channels. By leveraging Power BI, the dashboard provides a comprehensive overview of the superstore's performance in various states and regions, enabling stakeholders to make data-driven decisions to optimize operations and boost profitability.
-
-The dashboard consists of the following key elements:
-
---Sales Trends by Year: Analyzed sales growth over time (2010–2014) to identify yearly performance trends.
-
---Sales and Profit by State: Highlighted top-performing states such as California and New York, and identified underperforming areas.
-
---Profit by Shipping Mode: Evaluated profitability based on shipping methods, with "Regular Air" contributing the most profit.
-
---Sales by Region: Segmented sales performance across regions (Central, East, West, South) using a donut chart.
-
---Product Quantity Insights: Showcased popular products and their demand using bar charts.
-
---KPIs: Summarized overall performance with Key Performance Indicators (KPIs) for Sum of Profit (1.31M) and Sum of Sales (8.95M).
-
-**Key findings:** 
-
---Yearly Sales Growth:
-
---Sales increased significantly from 2010 to 2013, peaking in 2013.
---A slight dip is observed in 2014.
+The primary goal of this project was to provide an intuitive and interactive platform for tracking key metrics like revenue, units sold, 
+and customer preferences while enabling stakeholders to:
 
 
-State-Wise Performance:
+-Identify sales trends and growth opportunities.
 
---California and New York were the leading contributors to sales, with California generating over 1.16M in sales.
+-Monitor dealer and regional performance.
 
---States like Georgia and North Carolina showed minimal sales, indicating areas for improvement.
+-Optimize strategies for sales, pricing, and inventory management.
 
+Benefits:
 
-Shipping Mode Insights:
+-Enhanced decision-making through comprehensive data visualization.
 
---"Regular Air" was the most profitable shipping mode, contributing over 1M in profit.
+-Time savings with dynamic filtering and drill-down capabilities.
 
---"Delivery Truck" and "Express Air" showed lower profit margins, suggesting optimization opportunities.
-
-Regional Sales Contribution:
-
---The East and West regions collectively accounted for over 55% of total sales.
-
---The South region had the lowest contribution, highlighting a need for targeted marketing strategies.
-
-Product Demand:
-
---Products such as Avery 10, Excel Stor, and Velcro showed the highest quantities ordered.
-
---This suggests high customer demand for certain product categories.
-
-Profit and Sales Performance:
-
---Total profit stood at 1.31M, while total sales reached 8.95M, indicating a healthy profit margin.
+-Improved understanding of customer and regional preferences, leading to better product positioning.
 
 
-**Dashboard Overview:**
+**Key Findings:** 
+
+This project revealed several important insights:
+
+Sales Performance:
+Year-to-date (YTD) sales amounted to $371.2M, with a 23.6% increase compared to the previous year.
+Month-to-date (MTD) sales stood at $54.28M.
+
+Customer Preferences:
+Body Style: SUVs and sedans were the most popular categories based on sales volume.
+
+Color: Black and red vehicles were the top-selling colors, indicating strong customer preference.
+
+Regional Trends:
+Certain regions, such as Middletown and Greenville, outperformed others in terms of cars sold.
+
+Manufacturer Performance:
+Brands like Dodge, Chevrolet, and Cadillac showed consistent sales growth, with Dodge leading at 6.74% growth.
+
+Price Trends:
+The YTD average car price was $28K, with slight fluctuations in MTD average price.
 
 
-![Global superstore report 2023_dashboard](Global_SuperStore_Dashboard.png)
+**Dashboard Overview**
+
+![Car Sales Dashboard Overview](car_sales_Dashboard_overview.png)
+
+**Dashboard Details**
+
+![Car Sales Dashboard Details](car_sales_Dashboard_Details.png)
+
+
+
+
+
+
