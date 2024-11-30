@@ -406,7 +406,7 @@ Geographic Insights: Identifies top-performing regions and sales trends by count
 
 **Key Findings:** 
 
-1.  Sales Performance:
+Sales Performance:
 
 -Actual sales for the year reached **$2,544M**, achieving **64%** of the target of **$4,000M**.
 
@@ -414,19 +414,19 @@ Geographic Insights: Identifies top-performing regions and sales trends by count
 
 -The number of customers was **87**, achieving **87%** of the target.
 
-2.  Sales Trends:
+Sales Trends:
 
 -Consistent growth in sales from September to December for both 2023 and 2024.
 
 -March saw a peak in sales for 2024, indicating seasonal demand.
 
-3.  Geographic Performance:
+Geographic Performance:
 
 -Argentina was the top-performing country with sales of **$953.3M**, followed by Brazil and Colombia.
 
 -Countries such as **Chile** and **Bolivia** had relatively lower sales, presenting opportunities for growth.
 
-4.  Customer Satisfaction:
+Customer Satisfaction:
 
 -Highest-rated satisfaction factors include Availability **(95%), Hygiene (93%), and Quality (86%)**.
 
@@ -435,7 +435,7 @@ Geographic Insights: Identifies top-performing regions and sales trends by count
 
 **Dashboard Overview**
 
-![Sales Performance Dashboard](Sales Dashboard.png)
+![Sales Performance Dashboard](Sales_Dashboard.png)
 
 
 
