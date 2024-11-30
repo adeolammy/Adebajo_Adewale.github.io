@@ -368,7 +368,7 @@ The YTD average car price was $28K, with slight fluctuations in MTD average pric
 
 # Project 5
 
-**Title:** [Sales Performance Dashboard](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Adidas-Dashboard-START.xlsx)
+**Title:** [Sales Performance Dashboard](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/START-Dashboard.xlsx)
 
 **Tools Used:** Microsoft Excel (Pivolt table, Pivolt Chart, Filters and Slicers and timelines, Conditional Formatting)
 
@@ -435,7 +435,7 @@ Geographic Insights: Identifies top-performing regions and sales trends by count
 
 **Dashboard Overview**
 
-![Sales Performance Dashboard](car_sales_Dashboard_overview.png)
+![Sales Performance Dashboard](Sales Dashboard.png)
 
 
 
