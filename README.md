@@ -365,29 +365,82 @@ The YTD average car price was $28K, with slight fluctuations in MTD average pric
 
 
 
-<!--
+
 # Project 5
 
-**Title:** [Adidas Sales Dashboard](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Adidas-Dashboard-START.xlsx)
+**Title:** [Sales Performance Dashboard](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Adidas-Dashboard-START.xlsx)
 
 **Tools Used:** Microsoft Excel (Pivolt table, Pivolt Chart, Filters and Slicers and timelines, Conditional Formatting)
 
 **Project Description:**
 
+The Sales Performance Dashboard is an interactive tool designed to analyze, visualize, and monitor key performance metrics related to sales, profitability, customer satisfaction, and geographic performance. Built with a user-friendly interface, this dashboard empowers stakeholders to track progress against set targets, identify trends, and make data-driven decisions to enhance business performance.
 
+
+
+**Objective and Benefits:**
+
+Objective:
+
+-To provide a comprehensive and visually appealing representation of sales data for quick decision-making.
+
+-To analyze the performance of sales and profitability against targets.
+
+-To evaluate customer satisfaction metrics and identify areas for improvement.
+
+-To gain insights into sales distribution across countries.
+
+
+Benefits:
+
+-Real-Time Monitoring: Enables stakeholders to track sales, profit, and customer metrics in real time.
+
+-Data-Driven Decision-Making: Facilitates informed decisions by providing a detailed breakdown of trends and performance across regions 
+and time periods.
+
+-Performance Insights: Highlights progress toward targets and areas where improvements are required.
+
+-Enhanced Customer Experience: Provides valuable insights into customer satisfaction factors, helping improve service quality and product offerings.
+Geographic Insights: Identifies top-performing regions and sales trends by country, enabling targeted marketing and resource allocation.
 
 
 **Key Findings:** 
 
+1.  Sales Performance:
+
+-Actual sales for the year reached **$2,544M**, achieving **64%** of the target of **$4,000M**.
+
+-Profit amounted to $890M, meeting 89% of the target.
+
+-The number of customers was **87**, achieving **87%** of the target.
+
+2.  Sales Trends:
+
+-Consistent growth in sales from September to December for both 2023 and 2024.
+
+-March saw a peak in sales for 2024, indicating seasonal demand.
+
+3.  Geographic Performance:
+
+-Argentina was the top-performing country with sales of **$953.3M**, followed by Brazil and Colombia.
+
+-Countries such as **Chile** and **Bolivia** had relatively lower sales, presenting opportunities for growth.
+
+4.  Customer Satisfaction:
+
+-Highest-rated satisfaction factors include Availability **(95%), Hygiene (93%), and Quality (86%)**.
+
+-Improvement is needed in Speed **(54%)** and Service **(53%)**, which scored the lowest.
+
 
 **Dashboard Overview**
 
-![Car Sales Dashboard Overview](car_sales_Dashboard_overview.png)
+![Sales Performance Dashboard](car_sales_Dashboard_overview.png)
 
 
 
 
-
+<!--
 
 
 # Project 
