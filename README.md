@@ -93,7 +93,7 @@ Education (-33.1%)
 
 **Dashboard Overview**
 
-![Car Sales Dashboard Overview]([car_sales_Dashboard_overview.png](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/HMRC.png))
+![Car Sales Dashboard Overview](HMRC.png)
 <!--
 -->
 
