@@ -98,23 +98,25 @@ Education (-33.1%)
 
 
 
+
+
 # Project 2
 
 **Title:** [The Highland Schools Performance Dashboard – Overview of All Areas](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Highland_Council_Schools_Data.xlsx)
 
 **Tools Used:** 
 
-*Power BI – Utilized for:**
+**Power BI – Utilized for:**
 
-Data modeling, transformation, and visual analytics
+*-Data modeling, transformation, and visual analytics*
 
-DAX for KPIs (like Average Attendance, Budget Utilization)
+*-DAX for KPIs (like Average Attendance, Budget Utilization)*
 
-Power Query for data cleaning (school names, performance values, facility conditions)
+*-Power Query for data cleaning (school names, performance values, facility conditions)*
 
-Interactive slicers for dynamic filtering
+*-Interactive slicers for dynamic filtering*
 
-Use of custom visuals (donut chart, conditional formatting in tables)
+*-Use of custom visuals (donut chart, conditional formatting in tables)*
 
 
 
