@@ -1,5 +1,109 @@
 # Data Analytics Portfolio
+
+
+
 # Project 1
+
+**Title:** [HMRC Business Turnover Analytics (Multisector & Multinational)]([https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Adidas-Dashboard-START.xlsx](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/HMRC_DATA.zip))
+
+**Tools Used:** Microsoft Excel (Pivolt table, Pivolt Chart, Filters and Slicers and timelines, Conditional Formatting)
+
+**Project Description:**
+This Power BI dashboard provides an analytical view of turnover trends across various sectors and countries over multiple years. It enables stakeholders to track sectoral performance, compare annual turnover, and evaluate country-wise contributions. Filters allow for flexible exploration by company, month, status, and country, making it an interactive and dynamic tool for data-driven decisions.
+
+
+
+**Key Features of the Dashboard:** 
+
+-Interactive Filters: Allows users to drill down data by Company, Month, Status (e.g., Active, Closed, In Liquidation), and Country.
+
+-Sectoral Comparison: Visuals highlight turnover growth and decline by sector, emphasizing top gainers and losers.
+
+-Yearly Trends: Bar chart tracks total turnover across years (2020–2024).
+
+-Monthly Incorporation Activity: Line chart shows the number of incorporations per month, revealing seasonality or regulatory trends.
+
+-Country Analysis: Bar chart aggregates total turnover by country, emphasizing geographic concentrations of economic activity.
+
+-Donut Chart: Illustrates relative turnover growth across sectors as a percentage.
+
+
+**Track Key Performance Metrics:**
+
+**Greatest Increase by Sector:**
+
+-Consultancy showed the most significant increase, with a turnover growth of £853,559,720.00.
+
+**Greatest Decrease by Sector:**
+
+-Education had the most notable decline, with a turnover reduction of £269,812,008.00 (in red).
+
+**Year-over-Year Turnover Trend:**
+
+-Continuous growth from 2021 to 2024, with the highest turnover in 2024 (~£28 billion).
+
+**Monthly Incorporation Peak:**
+
+-March had the highest incorporations (4731), while December showed a significant drop (3269).
+
+**Turnover Growth (Donut % Breakdown):**
+
+**-Top sectors by growth:**
+
+-Consultancy (107.3%)
+
+-Construction (35.3%)
+
+-Maintenance and Repair (30.2%)
+
+-Negative growth:
+
+Education (-33.1%)
+
+**Top Country by Turnover:**
+
+-United Kingdom significantly outperformed others, reaching near £120 billion+.
+
+
+**Key Findings:** 
+
+
+**1. Sectoral Dynamics:**
+
+-Consultancy is the most rapidly expanding sector both in absolute value and percentage growth.
+
+-Education is in decline, potentially due to policy shifts, digital disruption, or funding cuts.
+
+**2. Annual Turnover Trend:**
+
+-A steady upward trajectory suggests economic recovery or strategic market expansion.
+
+**3. Country Disparity:**
+
+-UK dominates turnover generation, pointing to its central role in the data pool or possibly headquarters concentration.
+
+**4. Incorporation Trends:**
+
+-There’s a cyclical pattern, with Q1 (esp. March) typically seeing more incorporations—could indicate budget cycles, fiscal planning, or tax optimization strategies.
+
+**5. Operational Health:**
+
+-Active statuses dominate, but the presence of Closed and In Liquidation companies signals volatility in certain sectors or regulatory pressures.
+
+
+**Dashboard Overview**
+
+![Car Sales Dashboard Overview]([car_sales_Dashboard_overview.png](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/HMRC.png))
+<!--
+-->
+
+
+
+
+
+
+
+# Project 2
 
 **Title:** [Adidas Sales Dashboard](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Adidas-Dashboard-START.xlsx)
 
@@ -76,7 +180,7 @@ E-commerce presents a significant growth avenue, especially with shifting consum
 
 
 
-# Project 2
+# Project 3
 
 
 
@@ -152,7 +256,7 @@ Profit and Sales Performance:
 
 
 
-# Project 3
+# Project 4
 
 **Title:** Inventory management system
 
@@ -294,7 +398,7 @@ integrates user authentication, stock control, and transaction monitoring.
 
 
 
-# Project 4
+# Project 5
 
 **Title:** [Car Sales Dashboard Overview and Details](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Car%20sales%20Dashboard.pbix)
 
@@ -366,7 +470,7 @@ The YTD average car price was $28K, with slight fluctuations in MTD average pric
 
 
 
-# Project 5
+# Project 6
 
 **Title:** [Sales Performance Dashboard](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/START-Dashboard.xlsx)
 
