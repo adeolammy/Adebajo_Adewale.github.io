@@ -108,104 +108,133 @@ Education (-33.1%)
 
 **Power BI – Utilized for:**
 
-*-Data modeling, transformation, and visual analytics*
+*- Data modeling, transformation, and visual analytics*
 
-*-DAX for KPIs (like Average Attendance, Budget Utilization)*
+*- DAX for KPIs (like Average Attendance, Budget Utilization)*
 
-*-Power Query for data cleaning (school names, performance values, facility conditions)*
+*- Power Query for data cleaning (school names, performance values, facility conditions)*
 
-*-Interactive slicers for dynamic filtering*
+*- Interactive slicers for dynamic filtering*
 
-*-Use of custom visuals (donut chart, conditional formatting in tables)*
+*- Use of custom visuals (donut chart, conditional formatting in tables)*
 
 
 
 **Project Description:**
-This Power BI dashboard provides an analytical view of turnover trends across various sectors and countries over multiple years. It enables stakeholders to track sectoral performance, compare annual turnover, and evaluate country-wise contributions. Filters allow for flexible exploration by company, month, status, and country, making it an interactive and dynamic tool for data-driven decisions.
+This Power BI dashboard provides a comprehensive overview of school performance metrics across various areas in the Highland region. It enables stakeholders to analyze key indicators such as student attendance, exam scores, teacher distribution, facility conditions, budget allocation, and utilization — all segmented by school and area.
+
+**It is built for education managers and decision-makers to:**
+
+*- Track real-time school performance*
+
+*- Identify gaps in resource allocation*
+
+*- Improve educational outcomes through informed decision-making*
 
 
 
 **Key Features of the Dashboard:** 
 
--Interactive Filters: Allows users to drill down data by Company, Month, Status (e.g., Active, Closed, In Liquidation), and Country.
+**1. Top-Level KPIs:**
 
--Sectoral Comparison: Visuals highlight turnover growth and decline by sector, emphasizing top gainers and losers.
+*- Average Attendance Rate: 75%*
 
--Yearly Trends: Bar chart tracks total turnover across years (2020–2024).
+*- Average Exam Performance: 62*
 
--Monthly Incorporation Activity: Line chart shows the number of incorporations per month, revealing seasonality or regulatory trends.
+*- Total Budget: £461.07M*
 
--Country Analysis: Bar chart aggregates total turnover by country, emphasizing geographic concentrations of economic activity.
+*- Amount Spent: £335.45M*
 
--Donut Chart: Illustrates relative turnover growth across sectors as a percentage.
+*- Teacher to Student Ratio: 1:8*
+
+*- Enrollment Growth: 8.8%*
+
+
+**2. Visual Components:**
+
+*- Bar Chart (Facility Condition): Displays number of schools by condition (Poor, Fair, Good, Excellent)*
+*- Line Graph (Examination Performance): School-wise exam performance trend*
+*- Donut Chart (Teachers by Location): Distribution of teachers across four major areas*
+
+
+** * Interactive Table**
+
+*- Lists schools with key metrics: student numbers, teacher-student ratio, event participation, facility rating, and budget utilization*
+*- Uses conditional formatting to highlight budget surpluses/deficits*
+
+
+** 3. Filters/Slicers:**
+
+*- School Name*
+*- Area (Mid, North, South, West)*
+*- School Type (Primary, Secondary)*
+
+** 4. Interactivity:**
+
+*- Users can click on any visual (e.g., donut chart segment) to filter and drill into specific areas*
+*- Dynamic updates across visuals based on slicer selection*
+
+
+
+
+
+
 
 
 **Track Key Performance Metrics:**
 
-**Greatest Increase by Sector:**
 
--Consultancy showed the most significant increase, with a turnover growth of £853,559,720.00.
 
-**Greatest Decrease by Sector:**
+**This dashboard allows the user to monitor:**
 
--Education had the most notable decline, with a turnover reduction of £269,812,008.00 (in red).
+*- School Attendance Rates across all schools*
 
-**Year-over-Year Turnover Trend:**
+*- Exam Scores by individual schools*
 
--Continuous growth from 2021 to 2024, with the highest turnover in 2024 (~£28 billion).
+*- Budget Utilization effectiveness and discrepancies*
 
-**Monthly Incorporation Peak:**
+*- Event Participation as an indicator of student engagement*
 
--March had the highest incorporations (4731), while December showed a significant drop (3269).
+*- Infrastructure Quality via facility condition ratings*
 
-**Turnover Growth (Donut % Breakdown):**
+*- Teacher Distribution by region*
 
-**-Top sectors by growth:**
 
--Consultancy (107.3%)
 
--Construction (35.3%)
-
--Maintenance and Repair (30.2%)
-
--Negative growth:
-
-Education (-33.1%)
-
-**Top Country by Turnover:**
-
--United Kingdom significantly outperformed others, reaching near £120 billion+.
 
 
 **Key Findings:** 
 
 
-**1. Sectoral Dynamics:**
+**1. High Budget Allocation but Lower Spend**
 
--Consultancy is the most rapidly expanding sector both in absolute value and percentage growth.
+*- While £461.07M was budgeted, only £335.45M has been spent, raising questions about unspent funds or delays in execution.
 
--Education is in decline, potentially due to policy shifts, digital disruption, or funding cuts.
+**2. Facility Conditions Are Skewed:**
 
-**2. Annual Turnover Trend:**
+*- A significant number of schools are still rated as having “Poor” facilities (56), compared to 36 with “Good”.*
 
--A steady upward trajectory suggests economic recovery or strategic market expansion.
+**3. Teacher Distribution Imbalance:**
 
-**3. Country Disparity:**
+*- South Area and West Area show significantly higher teacher numbers than Mid and North.*
 
--UK dominates turnover generation, pointing to its central role in the data pool or possibly headquarters concentration.
+**4. Mixed Performance in Exams:**
 
-**4. Incorporation Trends:**
+*- Several schools scored well above 90, while others dropped below 40 – indicating disparities in academic performance.*
 
--There’s a cyclical pattern, with Q1 (esp. March) typically seeing more incorporations—could indicate budget cycles, fiscal planning, or tax optimization strategies.
+**5. Budget Utilization Disparity:**
 
-**5. Operational Health:**
+*- Some schools are operating under budget (e.g., Achiltibuie Primary at -£570,072), while others show strong surplus utilization (e.g., Applecross Primary with £2,836,170).*
 
--Active statuses dominate, but the presence of Closed and In Liquidation companies signals volatility in certain sectors or regulatory pressures.
+**6. Teacher-to-Student Ratios Vary:**
+
+*- While the average is 1:8, some schools report 1:1 and 1:22, signaling staff shortage.*
+
 
 
 **Dashboard Overview**
 
-![Car Sales Dashboard Overview](HMRC.png)
+![Car Sales Dashboard Overview](all_areas.png)
 <!--
 -->
 
