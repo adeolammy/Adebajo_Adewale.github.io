@@ -157,19 +157,19 @@ This Power BI dashboard provides a comprehensive overview of school performance 
 *- Donut Chart (Teachers by Location): Distribution of teachers across four major areas*
 
 
-** * Interactive Table**
+**3 * Interactive Table**
 
 *- Lists schools with key metrics: student numbers, teacher-student ratio, event participation, facility rating, and budget utilization*
 *- Uses conditional formatting to highlight budget surpluses/deficits*
 
 
-** 3. Filters/Slicers:**
+**4. Filters/Slicers:**
 
 *- School Name*
 *- Area (Mid, North, South, West)*
 *- School Type (Primary, Secondary)*
 
-** 4. Interactivity:**
+**5. Interactivity:**
 
 *- Users can click on any visual (e.g., donut chart segment) to filter and drill into specific areas*
 *- Dynamic updates across visuals based on slicer selection*
@@ -244,7 +244,7 @@ This Power BI dashboard provides a comprehensive overview of school performance 
 
 
 
-# Project 2
+# Project 3
 
 **Title:** [Adidas Sales Dashboard](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Adidas-Dashboard-START.xlsx)
 
@@ -321,7 +321,7 @@ E-commerce presents a significant growth avenue, especially with shifting consum
 
 
 
-# Project 3
+# Project 4
 
 
 
@@ -397,7 +397,7 @@ Profit and Sales Performance:
 
 
 
-# Project 4
+# Project 5
 
 **Title:** Inventory management system
 
@@ -539,7 +539,7 @@ integrates user authentication, stock control, and transaction monitoring.
 
 
 
-# Project 5
+# Project 6
 
 **Title:** [Car Sales Dashboard Overview and Details](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/Car%20sales%20Dashboard.pbix)
 
@@ -611,7 +611,7 @@ The YTD average car price was $28K, with slight fluctuations in MTD average pric
 
 
 
-# Project 6
+# Project 7
 
 **Title:** [Sales Performance Dashboard](https://github.com/adeolammy/Adebajo_Adewale.github.io/blob/main/START-Dashboard.xlsx)
 
